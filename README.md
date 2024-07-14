@@ -1,24 +1,2 @@
-# climas-vizo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thats my online curriculum prototype.
+It's not finished yet, I just made the sketch and will update it in the next few days.
